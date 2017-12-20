@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ##Copyright
 
 Adding copyrights to the README.md file here
+
+Addind even more stuff to the file
